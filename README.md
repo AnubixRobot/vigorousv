@@ -1,1 +1,2 @@
-# For a class project just a quick site using basic html/css
+# README
+THIS WAS A SMALL PROJECT WE HAD TO DO FOR A HTML/CSS COURSE
